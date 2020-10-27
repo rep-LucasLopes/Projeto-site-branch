@@ -1,0 +1,15 @@
+{
+    font-family: Arial;
+    font-size: 16px;
+}
+
+body {
+    background-color: rgb(109, 14, 199);
+}
+
+main {
+    background-color: azure;
+    width: 500px;
+    margin: 10px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.877);
+}
